@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0b0f14,60:0f3a4a,100:00e5ff&text=RavMonK&fontColor=e6f7ff&fontSize=72&fontAlignY=42&desc=build%20%E2%80%A2%20break%20%E2%80%A2%20automate&descColor=9be8ff&descSize=20&descAlignY=64&animation=twinkling" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b0f14,55:0f3a4a,100:00e5ff&text=RavMonK&fontColor=e6f7ff&fontSize=72&fontAlignY=42&desc=build%20%E2%80%A2%20break%20%E2%80%A2%20automate&descColor=9be8ff&descSize=20&descAlignY=64&animation=twinkling" width="100%" alt="header" />
 </div>
 
 <div align="center">
