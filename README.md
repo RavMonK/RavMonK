@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/RavMonK">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=%3E+whoami%3A+RavMonK;%3E+Agentic+AI+tinkerer+%E2%80%A2+Hermes+Agent+%2B+Claude+%2B+local+LLMs;%3E+Reverse+engineering+%26+security+curious;%3E+Discord+bots+%E2%80%A2+Windows+utilities+%E2%80%A2+automation;%3E+macOS+by+day%2C+Kali+by+night_" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=%3E+whoami%3A+RavMonK;%3E+Agentic+AI+%E2%80%A2+Hermes+%2B+Claude+%2B+Ollama;%3E+Reverse+engineering+%26+security+curious;%3E+Discord+bots+%E2%80%A2+Windows+utils+%E2%80%A2+automation;%3E+macOS+by+day%2C+Kali+by+night_" alt="typing" />
   </a>
 </div>
 
