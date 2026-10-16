@@ -94,6 +94,17 @@ status     = "shipping small tools that save big time"
 
 <br/>
 
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavMonK/RavMonK/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavMonK/RavMonK/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/RavMonK/RavMonK/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
+  </picture>
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RavMonK&style=for-the-badge&color=00e5ff&label=VISITORS" alt="visitors" />
