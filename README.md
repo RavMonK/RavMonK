@@ -40,14 +40,14 @@ status     = "shipping small tools that save big time"
 
 <div align="center">
   <a href="https://github.com/RavMonK/RDS-GracePeriod-Reset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavMonK&repo=RDS-GracePeriod-Reset&bg_color=0b0f14&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=1f2a33&show_owner=false" alt="RDS-GracePeriod-Reset" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavMonK&repo=RDS-GracePeriod-Reset&bg_color=0b0f14&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=1f2a33&show_owner=false&v=2" alt="RDS-GracePeriod-Reset" />
   </a>
   <a href="https://github.com/RavMonK/discord-quest-faker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavMonK&repo=discord-quest-faker&bg_color=0b0f14&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=1f2a33&show_owner=false" alt="discord-quest-faker" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavMonK&repo=discord-quest-faker&bg_color=0b0f14&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=1f2a33&show_owner=false&v=2" alt="discord-quest-faker" />
   </a>
   <br/>
   <a href="https://github.com/RavMonK/Wi-Fi-Saved-Password-Viewer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavMonK&repo=Wi-Fi-Saved-Password-Viewer&bg_color=0b0f14&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=1f2a33&show_owner=false" alt="Wi-Fi-Saved-Password-Viewer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavMonK&repo=Wi-Fi-Saved-Password-Viewer&bg_color=0b0f14&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=1f2a33&show_owner=false&v=2" alt="Wi-Fi-Saved-Password-Viewer" />
   </a>
 </div>
 
