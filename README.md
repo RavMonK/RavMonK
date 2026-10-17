@@ -89,7 +89,7 @@ status     = "shipping small tools that save big time"
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="dev quote" />
 </div>
 
 <br/>
